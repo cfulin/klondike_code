@@ -1,7 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 import pandas as pd
-import random
 from pypinyin import lazy_pinyin
 import sys
 reload(sys)
