@@ -71,10 +71,10 @@ def data_process(data):
 
 def main():
     inpath, outpath = read_cityfile()
-    cityData = get_city(inpath)
-    data_process(cityData[6:])
+    cityData = get_city(inpath)[6:]
+    data_process(cityData)
     # flatCity = flatten(cityData)
-    cityData = pd.DataFrame(cityData[6:], columns=['city'])
+    cityData = pd.DataFrame(cityData, columns=['city'])
     cityData.to_excel(outpath)
 
 
