@@ -7,7 +7,7 @@ reload(sys)
 sys.setdefaultencoding("utf-8")
 
 
-def city_Pinyin(data):
+def city_pinyin(data):
     pinyin_first = []
     pinyin_last = []
     datas = list(data.values)
@@ -25,7 +25,7 @@ def city_Pinyin(data):
 
 def main():
     data = pd.read_excel("data/city_dealcity.xlsx")
-    city_Pinyin(data)
+    city_pinyin(data)
 
 
 if __name__ == '__main__':

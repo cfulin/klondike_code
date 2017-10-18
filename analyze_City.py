@@ -12,14 +12,14 @@ def get_data_length(data):
     return data_length
 
 
-def city_Analyse(data):
+def city_analyse(data):
     data_pinyin_first = list(data['pinyin_first'])
     data_pinyin_last = list(data['pinyin_last'])
     data_city_list = list(data['city'])
     return data_pinyin_first, data_pinyin_last, data_city_list
 
 
-def pinyin_Match(data_pinyin_first, data_pinyin_last, data_city_list, data):
+def pinyin_match(data_pinyin_first, data_pinyin_last, data_city_list, data):
     data_length = get_data_length(data)
     city_is_right = False
     result = raw_input("请输入第一个城市名：")
@@ -46,13 +46,13 @@ def pinyin_Match(data_pinyin_first, data_pinyin_last, data_city_list, data):
                     print "无法匹配: " + city_Name + ",接龙游戏中断"
     else:
         print "请输入正确的城市名称！"
-        pinyin_Match(data_pinyin_first, data_pinyin_last, data_city_list, data)
+        pinyin_match(data_pinyin_first, data_pinyin_last, data_city_list, data)
 
 
 def main():
     data = pd.read_excel("data/city_dealcity_pinyin.xlsx")
-    data_pinyin_first, data_pinyin_last, data_city_list = city_Analyse(data)
-    pinyin_Match(data_pinyin_first, data_pinyin_last, data_city_list, data)
+    data_pinyin_first, data_pinyin_last, data_city_list = city_analyse(data)
+    pinyin_match(data_pinyin_first, data_pinyin_last, data_city_list, data)
 
 
 if __name__ == '__main__':

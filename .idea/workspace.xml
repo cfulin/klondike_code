@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb16204-c99d-4d70-91e6-f4eb9a239975" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/city.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/city.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/city.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/city_dealcity.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/city_dealcity_pinyin.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/city_files/bg_top.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/city_files/core.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/city_files/left3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/city_files/pic1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/city_files/stat.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/city_files/text.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/city_files/title01.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/city_files/title02.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/city_files/title_server.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/city_outfile.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/analyze_City.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/city1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/city1_dealcity.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/city1_dealcity_pinyin.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/city1_outfile.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/city2.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/city_Creeper.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/get_City.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/get_City_Pinyin.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/analyze_City.py" afterPath="$PROJECT_DIR$/analyze_City.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/city_Creeper.py" afterPath="$PROJECT_DIR$/city_Creeper.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/get_City.py" afterPath="$PROJECT_DIR$/get_City.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/get_City_Pinyin.py" afterPath="$PROJECT_DIR$/get_City_Pinyin.py" />
     </list>
@@ -40,13 +15,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="klondike_code" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="city_Creeper.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="city_Creeper.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/city_Creeper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="26" column="23" lean-forward="false" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+            <state relative-caret-position="261">
+              <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
               <folding>
                 <element signature="e#42#55#0" expanded="true" />
               </folding>
@@ -54,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="get_City.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="get_City.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/get_City.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            <state relative-caret-position="1292">
+              <caret line="70" column="0" lean-forward="true" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -67,8 +45,8 @@
       <file leaf-file-name="get_City_Pinyin.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/get_City_Pinyin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+            <state relative-caret-position="323">
+              <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -77,14 +55,19 @@
       <file leaf-file-name="analyze_City.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/analyze_City.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="34" column="36" lean-forward="false" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+            <state relative-caret-position="204">
+              <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>codecs</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="REBASE" />
@@ -94,10 +77,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/analyze_city.py" />
-        <option value="$PROJECT_DIR$/get_City.py" />
         <option value="$PROJECT_DIR$/city_Creeper.py" />
-        <option value="$PROJECT_DIR$/get_City_Pinyin.py" />
         <option value="$PROJECT_DIR$/analyze_City.py" />
+        <option value="$PROJECT_DIR$/get_City_Pinyin.py" />
+        <option value="$PROJECT_DIR$/get_City.py" />
       </list>
     </option>
   </component>
@@ -355,14 +338,28 @@
       <option name="project" value="LOCAL" />
       <updated>1507866655207</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="# update">
+      <created>1508294954813</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1508294954813</updated>
+    </task>
+    <task id="LOCAL-00003" summary="# updates">
+      <created>1508298583914</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1508298583914</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18154311" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18154311" sideWeight="0.4894895" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2979452" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -370,8 +367,8 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42979452" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.54452056" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18154311" sideWeight="0.5105105" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -387,18 +384,30 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="# test" />
-    <option name="LAST_COMMIT_MESSAGE" value="# test" />
+    <MESSAGE value="# update" />
+    <MESSAGE value="# updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="# updates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/city_Creeper.py</url>
-          <line>63</line>
-          <option name="timeStamp" value="14" />
+          <line>40</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/city_Creeper.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/city_Creeper.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="15" />
+      <option name="time" value="27" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -408,6 +417,8 @@
         <watch expression="data_list[ranNum]" language="Python" />
         <watch expression="str(data_list[ranNum][0])" language="Python" />
         <watch expression="html" language="Python" />
+        <watch expression="sys.path[0]" language="Python" />
+        <watch expression="items" language="Python" />
       </configuration>
     </watches-manager>
   </component>
@@ -496,37 +507,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/analyze_City.py">
+    <entry file="file://D:/ProgramData/Anaconda2/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="34" column="36" lean-forward="false" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/get_City_Pinyin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/get_City.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        <state relative-caret-position="93">
+          <caret line="895" column="0" lean-forward="false" selection-start-line="895" selection-start-column="0" selection-end-line="895" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/city_Creeper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="26" column="23" lean-forward="false" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        <state relative-caret-position="261">
+          <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
           <folding>
             <element signature="e#42#55#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/ProgramData/Anaconda2/Lib/site-packages/pypinyin/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2579">
+          <caret line="291" column="4" lean-forward="false" selection-start-line="291" selection-start-column="4" selection-end-line="291" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analyze_City.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_City_Pinyin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_City.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="70" column="0" lean-forward="true" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

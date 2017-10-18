@@ -15,7 +15,7 @@ def read_cityfile():
     return inpath, outpath
 
 
-def get_City(inpath):
+def get_city(inpath):
     cityData = []
     data = open(inpath, 'r')
     while True:
@@ -40,7 +40,7 @@ def get_City(inpath):
 #         yield nested
 
 
-def data_Process(data):
+def data_process(data):
     flag = 0
     for cityName in data:
         citys = str(cityName).replace(u'黑龙江', "").replace(u'吉林省', "").replace(u'辽宁', "")\
@@ -71,8 +71,8 @@ def data_Process(data):
 
 def main():
     inpath, outpath = read_cityfile()
-    cityData = get_City(inpath)
-    data_Process(cityData[6:])
+    cityData = get_city(inpath)
+    data_process(cityData[6:])
     # flatCity = flatten(cityData)
     cityData = pd.DataFrame(cityData[6:], columns=['city'])
     cityData.to_excel(outpath)
