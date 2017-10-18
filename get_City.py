@@ -9,7 +9,7 @@ sys.setdefaultencoding("gbk")
 
 def read_cityfile():
     # 打开文件
-    inpath = 'city.txt'
+    inpath = 'data/city.txt'
     outpath = inpath.split('.')[0] + '_outfile' + '.xlsx'
     # outpath = unicode('outfile.xlsx', 'utf-8')
     return inpath, outpath
@@ -65,8 +65,8 @@ def data_Process(data):
     data = data.dropna(axis=0, how='any', thresh=None, subset=None, inplace=False)
     data = data.drop_duplicates(["city"])  # 去除重复行
     data = data[1:].reset_index(drop=True)
-    data.to_excel("city_dealcity.xlsx")
-    print("City data has been got successful!")
+    data.to_excel("data/city_dealcity.xlsx")
+    print("Citys data has been successful!")
 
 
 def main():

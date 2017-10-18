@@ -50,7 +50,7 @@ def pinyin_Match(data_pinyin_first, data_pinyin_last, data_city_list, data):
 
 
 def main():
-    data = pd.read_excel("city_dealcity_pinyin.xlsx")
+    data = pd.read_excel("data/city_dealcity_pinyin.xlsx")
     data_pinyin_first, data_pinyin_last, data_city_list = city_Analyse(data)
     pinyin_Match(data_pinyin_first, data_pinyin_last, data_city_list, data)
 

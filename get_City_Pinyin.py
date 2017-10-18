@@ -19,12 +19,12 @@ def city_Pinyin(data):
     pinyin_first = pd.DataFrame(pinyin_first, columns=['pinyin_first'])
     pinyin_last = pd.DataFrame(pinyin_last, columns=['pinyin_last'])
     data = pd.concat([data, pinyin_first, pinyin_last], axis=1)
-    data.to_excel("city_dealcity_pinyin.xlsx")
+    data.to_excel("data/city_dealcity_pinyin.xlsx")
     # return data
 
 
 def main():
-    data = pd.read_excel("city_dealcity.xlsx")
+    data = pd.read_excel("data/city_dealcity.xlsx")
     city_Pinyin(data)
 
 
